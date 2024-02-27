@@ -16,16 +16,20 @@ body {
     box-shadow: 4px 5px 12px rgba(0, 0, 0, 0.6);
     width: 100%;
 }
+
 .titles h1{
     color: #800000;
 }
+
 .titles h2{
     color: white;
 }
+
 .pic{
     height: 290px;
     width: 280px;
 }
+
 .biodata {
     background-color: aliceblue;
     display: flex;
