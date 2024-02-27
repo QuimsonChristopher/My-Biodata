@@ -41,8 +41,8 @@ body {
     border-radius: 20px;
     box-shadow: inset 4px 5px 12px rgb(149, 215, 235);
     height: 290px;
-
 }
+
 .biodata p {
     margin-left: 40px;
 }
@@ -59,6 +59,7 @@ body {
     text-align: center;
     font-size: 20;
 }
+
 .details {
     font-weight: 1000;
     text-align: left;
@@ -72,6 +73,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     
 }
+
 .aud {
     position: fixed;
     right: 5px;
@@ -82,11 +84,13 @@ body {
     padding: 20px;
     box-shadow: inset 4px 5px 12px rgb(149, 217, 238);
 }
+
 .aud p {
     font-weight: 500;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
+
 .vid {
     position: fixed;
     right: 5px;
@@ -99,11 +103,13 @@ body {
     width: 300px;
     height: 170px;
 }
+
 .vid video{
     width: 300px;
     height: 120px;
     border-radius: 20px;
 }
+
 .vid p {
     font-weight: 500;
     text-align: center;
@@ -120,18 +126,15 @@ body {
     text-align: center; 
     padding: 10px; 
   }
+
   .footer p {
     font-size: small;
   }
   
 
-
 #date-time {
-
     font-size: 24px;
-
     color: black;
-
     text-align: center;
   }
   
