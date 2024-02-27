@@ -1,10 +1,12 @@
 html {
     overflow: auto;
   }
+
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #c9f0f0;
 }
+
 .titles {
     text-align: center;
     font-size: 12px;
